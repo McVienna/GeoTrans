@@ -5,10 +5,17 @@
     <link rel="script" type="text/js" href="..\google\js\mymap.js">
     <link rel="stylesheet" type="text/css" href="..\style\main.css">
 </head>
+<div class = "container" id="background">
 <body>
  
-<?php include "navi.php"; ?> 
+<?php include "navi.php"; ?>
+ <img class="background" src="..\media\test_background.jpg">
+
+<?php include "customnav.php"; ?>
 <?php include "map.php"; ?>
+
+
+</div>
 <?php include "footer.php"; ?>
 
 </body>
