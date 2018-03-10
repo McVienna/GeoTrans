@@ -1,0 +1,13 @@
+.footer{
+	float: left;
+	background: whitesmoke;
+	min-width: 100%;
+	padding: 15px 0;
+	height: 25%;
+}
+
+.Logo{
+	height: 100px;
+	padding-right: 5%;
+ 	width: auto;
+}

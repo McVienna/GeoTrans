@@ -3,10 +3,13 @@
     <link rel="stylesheet" type="text/css" href="..\bootstrap-4.0.0-dist\css\bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="..\google\css\mymap.css">
     <link rel="script" type="text/js" href="..\google\js\mymap.js">
+    <link rel="stylesheet" type="text/css" href="..\style\main.css">
 </head>
 
+<body>
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <a class="navbar-brand" href="#">GeoTrade</a>
+  <a class="navbar-brand" href="#">GeoTrans</a>
+  <img class="Logo" src="..\media\earth.png">
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -41,6 +44,14 @@
   </div>
 </nav>
 <div id="map"></div>
+
+<div class="container">
+  <div class="footer footer-expand-lg">
+      <p>&copy; Aleksander Rankovic & Markus Vogl</p>
+  </div>
+</div>
+
+</body>
 
     <!-- Function That Initialises The Map and sets a Marker on a certain point calles uluru -->
     <script>
