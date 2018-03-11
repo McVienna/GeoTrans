@@ -1,0 +1,16 @@
+.login{
+	text-align: center;
+	padding-top: 5%;
+}
+
+#mail{
+	padding: 5px;
+	float: left;
+	margin-left: 0;
+}
+
+#pass{
+	padding: 5px;
+	float: left;
+	margin-left: 0;
+}

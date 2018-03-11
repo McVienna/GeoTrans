@@ -9,7 +9,7 @@
 <body>
  
 <?php include "navi.php"; ?>
- <img class="background" src="..\media\test_background.jpg">
+ <!-- <img class="background" src="..\media\test_background.jpg"> -->
 
 <?php include "customnav.php"; ?>
 <?php include "map.php"; ?>
