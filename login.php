@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<html>
 <head>
 	<link type="text/css" rel="stylesheet" href="..\style\login.css">
 	<link type="text/css" rel="stylesheet" href="..\bootstrap-4.0.0-dist\css\bootstrap.min.css">
@@ -23,5 +24,8 @@
 		</form>
 	</div>
 </div>
-
 </body>
+</html>
+
+
+
